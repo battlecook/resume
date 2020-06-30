@@ -63,7 +63,7 @@ battlecook
 개발 블로그 
 --------------------
 
-[battlecook.github.io](battlecook.github.io)
+[battlecook.github.io](https://battlecook.github.io/)
 
 학력
 ---------

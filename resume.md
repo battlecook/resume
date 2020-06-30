@@ -63,7 +63,7 @@ Career Summary
 Tech blog
 --------------------
 
-[https://battlecook.github.io](https://battlecook.github.io/)
+[battlecook.github.io](https://battlecook.github.io/)
 
 Education
 ---------
