@@ -3,7 +3,7 @@ battlecook
 
 > address : Seoul, Republic of Korea <br>
 > email : battlecookresume@gmail.com <br>
-> github : [https://github.com/battlecook](https://github.com/battlecook)
+> github : [https://github.com/battlecook](https://github.com/battlecook) <br>
 > stackoverflow : [https://stackoverflow.com/users/13429399/battlecook](https://stackoverflow.com/users/13429399/battlecook)
 >
 Summary

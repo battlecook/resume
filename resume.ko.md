@@ -3,7 +3,7 @@ battlecook
 
 > 주소 : 대한민국 서울<br>
 > 메일 : battlecookresume@gmail.com <br>
-> 깃헙 : [https://github.com/battlecook](https://github.com/battlecook)
+> 깃헙 : [https://github.com/battlecook](https://github.com/battlecook) <br>
 > 스택오버플로 : [https://stackoverflow.com/users/13429399/battlecook](https://stackoverflow.com/users/13429399/battlecook)
 
 요약
