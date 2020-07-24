@@ -18,7 +18,7 @@ I am interested in the open source project and community.
 Skills
 --------------------
 
-* language : dart, php, go, c#(unity), python(tensorflow)
+* language : dart, php, go, c#(for unity), python(for tensorflow)
 * os : linux(centos)
 * database : mysql
 * used cache solution : redis, memcached

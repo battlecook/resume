@@ -30,7 +30,7 @@ battlecook
 기술
 --------------------
 
-* 언어 : dart, php, go, c#(unity), python(tensorflow)
+* 언어 : dart, php, go, c#(for unity), python(for tensorflow)
 * 운영체제 : linux(centos)
 * 데이타베이스 : mysql
 * 사용해본 캐시 솔루션 : redis, memcached
