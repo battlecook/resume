@@ -20,6 +20,7 @@ battlecook
 
 [컴투스](https://www.com2us.com)
 
+* 2020-2021 : 기술 지원 <br>
 * 2019-2020 : 단스짱 <br>
 * 2015-2019 : 댄스빌 <br>
 * 2014-2015 : 타워디펜스 (끝없는 전쟁) <br>
@@ -29,7 +30,7 @@ battlecook
 기술
 --------------------
 
-* 언어 : php, go, c#(unity), dart
+* 언어 : dart, php, go, c#(unity), python(tensorflow)
 * 운영체제 : linux(centos)
 * 데이타베이스 : mysql
 * 사용해본 캐시 솔루션 : redis, memcached

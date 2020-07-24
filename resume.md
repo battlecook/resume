@@ -18,7 +18,7 @@ I am interested in the open source project and community.
 Skills
 --------------------
 
-* language : php, go, dart, c#(unity)
+* language : dart, php, go, c#(unity), python(tensorflow)
 * os : linux(centos)
 * database : mysql
 * used cache solution : redis, memcached
@@ -54,6 +54,7 @@ Career Summary
 
 [com2us](https://www.com2us.com)
 
+* 2020-2021 : Technical Support <br>
 * 2019-2020 : DanceChan <br>
 * 2015-2019 : DanceVille <br>
 * 2014-2015 : Tower Defense (Infinite War) <br>
