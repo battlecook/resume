@@ -54,10 +54,10 @@ Career Summary
 
 [com2us](https://www.com2us.com)
 
-* 2020-2021 : Technical Support <br>
+* 2020-2021 : Technical Support (ML) <br>
 * 2019-2020 : DanceChan <br>
 * 2015-2019 : DanceVille <br>
-* 2014-2015 : Tower Defense (Infinite War) <br>
+* 2014-2015 : Tower Defense : Infinite War <br>
 * 2013-2013 : Kokoma Travel <br>
 * 2011-2013 : DerbyDays <br>
 
