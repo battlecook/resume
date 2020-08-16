@@ -9,11 +9,13 @@ battlecook
 Summary
 ---------
 
-I worked as a backend developer for 8++ years. <br>
-The main language I used is php. I worked in web server environment using various languages such as php, golang, dart etc. <br>
-I have designed it to receive a lot of traffic (applications, databases, etc.). <br>
-In the frontend side, I used a flutter to deal with a lot of toy projects. <br>
-I am interested in the open source project and community.
+Worked as a backend developer for 9 years.<br>
+I worked in a web server environment using various languages such as php, dart, and golang.<br>
+We designed it for receiving massive web traffic.<br>
+We conducted a study on clustering of game users using Big Query Machine Learning.<br>
+As a side project, I did front-end development using Flutter.<br>
+I tried to solve the classification problem using TensorFlow.<br>
+I am interested in the open source community.<br>
 
 Skills
 --------------------
@@ -69,4 +71,4 @@ Tech blog
 Education
 ---------
 
-[Kookmin University](https://www.kookmin.ac.kr/home.php), BS, Computer Science 2005 - 2011
+[Kookmin University](https://english.kookmin.ac.kr/), BS, Computer Science 2005 - 2011
