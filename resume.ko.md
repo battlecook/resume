@@ -62,6 +62,7 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 * [선형대수](https://github.com/mcordingley/LinearAlgebra/graphs/contributors)
 * [이벤트 에미터](https://github.com/igorw/evenement/graphs/contributors)
 * [플루터 검색 위젯](https://github.com/apgapg/search_widget/graphs/contributors)
+* [플루터 이미지 라이브러리](https://github.com/fluttercandies/extended_image/graphs/contributors)
 
 개발 블로그 
 --------------------

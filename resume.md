@@ -50,6 +50,7 @@ contributor :
 * [https://github.com/mcordingley/LinearAlgebra/graphs/contributors](https://github.com/mcordingley/LinearAlgebra/graphs/contributors)
 * [https://github.com/igorw/evenement/graphs/contributors](https://github.com/igorw/evenement/graphs/contributors)
 * [https://github.com/apgapg/search_widget/graphs/contributors](https://github.com/apgapg/search_widget/graphs/contributors)
+* [https://github.com/fluttercandies/extended_image/graphs/contributors](https://github.com/fluttercandies/extended_image/graphs/contributors)
 
 Career Summary
 ----------
