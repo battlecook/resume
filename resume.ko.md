@@ -12,7 +12,7 @@ battlecook
 9년동안 백엔드 개발자로 일했습니다. <br>
 php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했습니다. <br> 
 대규모 웹 트래픽을 받기 위한 설계를 했습니다. <br>
-빅쿼리 머신러닝을 활용해 게임 유져 군집화 연구를 진행했습니다. <br>
+빅쿼리 머신러닝을 활용해 게임 유져 군집화 연구를 진행하고 어뷰져 군집을 구분해 냈습니다. <br>
 사이드 프로젝트로 플루터를 이용해 프론트 엔드 개발을 해보았습니다. <br>
 텐서플로우를 이용해 분류 문제를 해결 해 보았습니다 <br>
 오픈소스 커뮤니티에 관심이 많습니다. <br>
@@ -22,7 +22,7 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 
 [컴투스](https://www.com2us.com)
 
-* 2020-2021 : 기술 지원 (머신러닝) <br>
+* 2020-2021 : 선행 R & D (머신러닝) <br>
 * 2019-2020 : 단스짱 <br>
 * 2015-2019 : 댄스빌 <br>
 * 2014-2015 : 타워디펜스 : 끝없는 전쟁 <br>
@@ -32,7 +32,7 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 기술
 --------------------
 
-* 언어 : dart, php, go, c#(for unity), python(for tensorflow)
+* 언어 : dart, php, go, c#(for unity), python(for ml and flask)
 * 운영체제 : linux(centos)
 * 데이타베이스 : mysql
 * 사용해본 캐시 솔루션 : redis, memcached
@@ -46,7 +46,7 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 * 의존성 관리 도구 : composer
 * 지속적 통합 : travis
 * 클라우드 서버 : aws, gcp, heroku, ncloud(네이버클라우드) 
-* 사용해 본 프레임웍 : [flutter](https://flutter.dev/)
+* 사용해 본 프레임웍 : [flutter](https://flutter.dev/), [flask](https://palletsprojects.com/p/flask/)
 * 사용해 본 게임엔진 : 유니티
 
 오픈 소스

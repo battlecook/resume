@@ -12,7 +12,7 @@ Summary
 Worked as a backend developer for 9 years.<br>
 I worked in a web server environment using various languages such as php, dart, and golang.<br>
 I designed it for receiving massive web traffic.<br>
-I researched on clustering of game users using Bigquery Machine Learning.<br>
+I researched on clustering of game users using Bigquery ML kmenas.<br>
 I tried to solve the classification problem using TensorFlow.<br>
 As a side project, I did front-end development using Flutter.<br>
 I am interested in the open source community.<br>
@@ -20,7 +20,7 @@ I am interested in the open source community.<br>
 Skills
 --------------------
 
-* language : dart, php, go, c#(for unity), python(for tensorflow)
+* language : dart, php, go, c#(for unity), python(for ml and flask)
 * os : linux(centos)
 * database : mysql
 * used cache solution : redis, memcached
@@ -34,7 +34,7 @@ Skills
 * dependency manager tool : composer
 * ci : travis
 * cloud server : aws, gcp, heroku, ncloud
-* used framework : [flutter](https://flutter.dev/)
+* used framework : [flutter](https://flutter.dev/), [flask](https://palletsprojects.com/p/flask/)
 * used game engine : unity
 
 Open Source
