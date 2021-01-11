@@ -99,7 +99,7 @@ R&D Team ( 2020.7 - 2021.3 )
   * anomaly detection using autoencoder
 
 ***** 
-Dancechan ( 2019.6 - 2020.7 )
+Dancechan ( 2019.6 - 2020.7 ) <br>
 DanceVille ( 2015.2 - 2019.6 )
 *****
 
