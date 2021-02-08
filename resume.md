@@ -22,7 +22,7 @@ Skills
 
 * language : dart, php, go, c#(for unity), python(for ml and flask)
 * os : linux(centos)
-* database : mysql
+* database : mysql, bigquery
 * used cache solution : redis, memcached
 * webserver : nginx + phpfpm , [workerman](https://github.com/walkor/Workerman), [reactphp](https://reactphp.org/)
 * test tool : phpunit, dbunit 
