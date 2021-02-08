@@ -13,6 +13,7 @@ battlecook
 php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했습니다. <br> 
 대규모 웹 트래픽을 받기 위한 설계를 했습니다. <br>
 빅쿼리 머신러닝을 활용해 게임 유져 군집화 연구를 진행하고 어뷰져 군집을 구분해 냈습니다. <br>
+이상감지를 위해 텐서플로우로 오토인코더 모델을 사용해 봤습니다 <br> 
 사이드 프로젝트로 플루터를 이용해 프론트 엔드 개발을 해보았습니다. <br>
 텐서플로우를 이용해 분류 문제를 해결 해 보았습니다 <br>
 오픈소스 커뮤니티에 관심이 많습니다. <br>
@@ -34,7 +35,7 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 
 * 언어 : dart, php, go, c#(for unity), python(for ml and flask)
 * 운영체제 : linux(centos)
-* 데이타베이스 : mysql
+* 데이타베이스 : mysql, bigquery
 * 사용해본 캐시 솔루션 : redis, memcached
 * 웹서버 : nginx + phpfpm , [workerman](https://github.com/walkor/Workerman), [reactphp](https://reactphp.org/)
 * 테스트 : phpunit, dbunit 
