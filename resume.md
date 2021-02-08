@@ -38,6 +38,7 @@ Skills
 * used framework : [flutter](https://flutter.dev/), [flask](https://palletsprojects.com/p/flask/)
 * used game engine : unity
 * machine learning : clustering, anomaly detection
+* etc : grpc, protocol buffer, flat buffer
 
 Open Source
 --------------------
@@ -113,6 +114,7 @@ DanceVille ( 2015.2 - 2019.6 )
 
 * Development environment
   * centos, nginx + phpfpm, memcached, redis, mysql, golang
+  * http + protocol buffer
   * scribe, fluentd
   * docker
   * git(bitbucket)
@@ -145,6 +147,7 @@ Derbydays ( 2011.9 - 2013.1 )
 
 * Development environment
   * centos, nginx + phpfpm, memcached, mysql
+  * http + json
   * scribe
   * svn
   * eclipse
