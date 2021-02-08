@@ -37,6 +37,7 @@ Skills
 * cloud server : aws, gcp, heroku, ncloud
 * used framework : [flutter](https://flutter.dev/), [flask](https://palletsprojects.com/p/flask/)
 * used game engine : unity
+* machine learning : clustering, anomaly detection
 
 Open Source
 --------------------

@@ -49,6 +49,7 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 * 클라우드 서버 : aws, gcp, heroku, ncloud(네이버클라우드) 
 * 사용해 본 프레임웍 : [flutter](https://flutter.dev/), [flask](https://palletsprojects.com/p/flask/)
 * 사용해 본 게임엔진 : 유니티
+* 기계 학습 : 군집화, 이상탐지
 
 오픈 소스
 --------------------
