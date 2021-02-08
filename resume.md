@@ -65,6 +65,12 @@ Career Summary
 * 2013-2013 : Kokoma Travel <br>
 * 2011-2013 : DerbyDays <br>
 
+Personal Project
+----------
+
+* 2019-2021 : Frontend using flutter
+* 2017-2019 : Game client using unity
+
 Tech blog
 --------------------
 

@@ -65,6 +65,13 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 * [플루터 이미지 라이브러리](https://github.com/fluttercandies/extended_image/graphs/contributors)
 * [플루터 파이토치](https://github.com/fynnmaarten/flutter_pytorch_mobile/graphs/contributors)
 
+개인 프로젝트
+--------------------
+
+* 2019-2021 : 플러터를 이용한 모바일 어플리케이션 개발
+* 2017-2019 : 유니티를 이용한 미니게임
+
+
 개발 블로그 
 --------------------
 
@@ -74,3 +81,80 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 ---------
 
 [국민대학교](https://www.kookmin.ac.kr/home.php) 컴퓨터 공학과 (2005-2011)
+
+
+
+
+<details>
+<summary>show / hide</summary>
+<div markdown="1">
+
+*****
+R&D Team ( 2020.7 - 2021.3 )
+*****
+
+* Development environment
+    * python
+    * pycharm
+    * bigqueryml, tensorflow
+
+* Main task
+    * user clustering for abuser detection using ml kmeans
+    * anomaly detection using autoencoder
+
+***** 
+Dancechan ( 2019.6 - 2020.7 ) <br>
+DanceVille ( 2015.2 - 2019.6 )
+*****
+
+* Development environment
+    * centos, nginx + phpfpm, memcached, redis, mysql, golang
+    * scribe, fluentd
+    * docker
+    * git(bitbucket)
+    * phpstorm, goland
+
+* Main task
+    * Lead Programmer
+    * Modern php
+        * apply php7
+        * using composer
+        * using phpunit
+        * implement acceptance test tool (using dbunit)
+
+    * Web server design
+        * implementation of multiple repository transactions at the application level
+        * database load balancing implementation
+
+    * Apply code review culture to team
+    * Game contents implementation (Quest and many)
+    * Game contents implementation with golang in tcp server (Pet and many)
+
+* Major Achievements
+    * service launching
+
+*****
+Tower Defense (Infinite War) ( 2013.10 - 2014.6 ) <br>
+Kokoma Travel ( 2013.2 - 2013.9 ) <br>
+Derbydays ( 2011.9 - 2013.1 )
+*****
+
+* Development environment
+    * centos, nginx + phpfpm, memcached, mysql
+    * scribe
+    * svn
+    * eclipse
+
+* Main task
+    * total game contents implementation
+    * all communication necessary for game server (development, hardware infrastructure, etc.)
+    * write unit test
+
+* Main Achievements
+    * kakao platform launching
+    * global service launching
+
+
+
+</div>
+</details>
