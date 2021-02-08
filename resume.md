@@ -38,6 +38,7 @@ Skills
 * used framework : [flutter](https://flutter.dev/), [flask](https://palletsprojects.com/p/flask/)
 * used game engine : unity
 * machine learning : clustering, anomaly detection
+* recommended reading : [peopleware](http://www.yes24.com/Product/Goods/13657193), freedom & responsibility by netflix, [handbook for new employees by valve](http://media.steampowered.com/apps/valve/Valve_Handbook_LowRes.pdf)
 * etc : grpc, protocol buffer, flat buffer
 
 Open Source

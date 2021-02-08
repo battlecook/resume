@@ -50,6 +50,7 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 * 사용해 본 프레임웍 : [flutter](https://flutter.dev/), [flask](https://palletsprojects.com/p/flask/)
 * 사용해 본 게임엔진 : 유니티
 * 기계 학습 : 군집화, 이상탐지
+* 추천 도서, 글 : 피플웨어, 자유와 책임(넷플릭스), 신규입사자 가이드(벨브)
 * 기타 : grpc, 프로토콜 버퍼, 플랫버퍼
 
 오픈 소스
