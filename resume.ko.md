@@ -9,18 +9,20 @@ battlecook
 요약
 ---------
 
-9년동안 백엔드 개발자로 일했습니다. <br>
-php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했습니다. <br> 
-대규모 웹 트래픽을 받기 위한 설계를 했습니다. <br>
-빅쿼리 머신러닝을 활용해 게임 유져 군집화 연구를 진행하고 어뷰져 군집을 구분해 냈습니다. <br>
-이상감지를 위해 텐서플로우로 오토인코더 모델을 사용해 봤습니다 <br> 
-사이드 프로젝트로 플루터를 이용해 프론트 엔드 개발을 해보았습니다. <br>
-텐서플로우를 이용해 분류 문제를 해결 해 보았습니다 <br>
-오픈소스 커뮤니티에 관심이 많습니다. <br>
+모바일 게임회사에서 게임서버개발을 하였고, 3~4개의 게임을 프로젝트 초기부터 런칭, 라이브 업데이트까지 진행하여, 전체 수명주기에서 개발/트러블슈팅 역량을 가지고 있습니다.
+머신러닝 기법을 활용한 유저 군집화를 통해 게임 내 어뷰저를 탐지할 수 있는 시스템과  광학문자인식(ocr) 을 활용한 QA 다국어 업무 자동화 시스템을 개발 했습니다.
+최근에는 현대자동차 AIRS의 speech 팀에서 음성 인식/합성 서버 플랫폼 개발 및 유지보수와 유틸리티 툴들을 개발하고 있습니다.
+"언제나 처음 왔을 때보다 깨끗하게 해놓고 캠프장을 떠날 것" 이라는 보이스카웃 규칙을 따르며 업무에 임하고 있습니다.
+
 
 경력 요약
 ----------
 
+[현대자동차](https://airsc.ai/)
+
+* 2022-2022 : 관리도구 개발 - 음성 인식 word-dict 관리도구 개발
+* 2021-2022 : 플랫폼서버개발 - 음성 인식/합성 서버 플랫폼 개발
+ 
 [컴투스](https://www.com2us.com)
 
 * 2020-2021 : 선행 R & D (머신러닝) <br>
@@ -56,18 +58,47 @@ php, dart, golang 등 다양한 언어를 사용해 웹서버환경에서 일했
 오픈 소스
 --------------------
 
-커미터 : 
+### DataCooker
 
- * [PHP 데이터 접속 라이브러리](https://github.com/battlecook/DataCooker) 
- * [AStar 알고리즘](https://github.com/battlecook/AStar) 
+[https://github.com/battlecook/DataCooker](https://github.com/battlecook/DataCooker)
 
-컨트리뷰터 :
+- nginx, php-fpm  환경에서 io 를 줄이고 컨텐츠 개발에 집중할 수 있도록 php 라이브러리를 개발
+- php 패키지 레포지터리인 [packagist 에 배포](https://packagist.org/packages/battlecook/datacooker)
 
-* [선형대수](https://github.com/mcordingley/LinearAlgebra/graphs/contributors)
-* [이벤트 에미터](https://github.com/igorw/evenement/graphs/contributors)
-* [플루터 검색 위젯](https://github.com/apgapg/search_widget/graphs/contributors)
-* [플루터 이미지 라이브러리](https://github.com/fluttercandies/extended_image/graphs/contributors)
-* [플루터 파이토치](https://github.com/fynnmaarten/flutter_pytorch_mobile/graphs/contributors)
+### Astar
+
+[https://github.com/battlecook/AStar](https://github.com/battlecook/AStar)
+
+- 최단 경로 알고리즘인 [AStar 알고리즘](https://ko.wikipedia.org/wiki/A*_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)을 구현한 라이브러리
+- 개인프로젝트 진행 중 서버에서 사용했던 AStar 로직을 오픈소스로 전환
+- 데모페이지를 Paas 인 [Heroku](https://ko.wikipedia.org/wiki/%ED%97%A4%EB%A1%9C%EC%BF%A0) 클라우드 플랫폼에 운영
+- 데모 페이지 : [https://battlecook.herokuapp.com/test/Simulation.php](https://battlecook.herokuapp.com/test/Simulation.php)
+
+### **php-kmeans**
+
+[https://github.com/bdelespierre/php-kmeans](https://github.com/bdelespierre/php-kmeans)
+
+- v2 : kmeans++ 초기화 함수 구현 및 기타 마이너 수정 [공헌](https://github.com/bdelespierre/php-kmeans/graphs/contributors)
+- v3 : 인터페이스 초안 설계 참여
+
+### **보이스카우트 규칙**
+
+"언제나 처음 왔을 때보다 깨끗하게 해놓고 캠프장을 떠날 것" 이라는 보이스카우트 룰에 의거한 오픈소스 공헌
+
+오픈소스 사용시 잘못되어 있는 코드, 문서 등을 보면 작업이 작든 크든 PR을 보내 깨끗이 하려고 노력함
+
+공헌 목록 
+
+- kmeans 알고리즘 [https://github.com/bdelespierre/php-kmeans/graphs/contributors](https://github.com/bdelespierre/php-kmeans/graphs/contributors)
+- 선형대수 [https://github.com/mcordingley/LinearAlgebra/graphs/contributors](https://github.com/mcordingley/LinearAlgebra/graphs/contributors)
+- 이벤트 에미터 [https://github.com/igorw/evenement/graphs/contributors](https://github.com/igorw/evenement/graphs/contributors)
+- nginx + phpfpm 도커파일 [https://github.com/wyveo/nginx-php-fpm/graphs/contributors](https://github.com/wyveo/nginx-php-fpm/graphs/contributors)
+- 플루터 검색 위젯 [https://github.com/apgapg/search_widget/graphs/contributors](https://github.com/apgapg/search_widget/graphs/contributors)
+- 플루터 이미지 [https://github.com/fluttercandies/extended_image/graphs/contributors](https://github.com/fluttercandies/extended_image/graphs/contributors)
+- 플루터 파이토치 [https://github.com/fynnmaarten/flutter_pytorch_mobile/graphs/contributors](https://github.com/fynnmaarten/flutter_pytorch_mobile/graphs/contributors)
+- 케라스 코리아 컨트리뷰톤 [https://github.com/KerasKorea/KEKOxTutorial/graphs/contributors](https://github.com/KerasKorea/KEKOxTutorial/graphs/contributors)
+
+그 외 다수 공헌 및 PR
 
 개인 프로젝트
 --------------------
