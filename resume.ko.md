@@ -65,7 +65,7 @@ battlecook
 - nginx, php-fpm  환경에서 io 를 줄이고 컨텐츠 개발에 집중할 수 있도록 php 라이브러리를 개발
 - php 패키지 레포지터리인 [packagist 에 배포](https://packagist.org/packages/battlecook/datacooker)
 
-### Astar
+### **Astar**
 
 [https://github.com/battlecook/AStar](https://github.com/battlecook/AStar)
 
@@ -103,9 +103,68 @@ battlecook
 개인 프로젝트
 --------------------
 
-* 2019-2021 : 플러터를 이용한 모바일 어플리케이션 개발
-* 2017-2019 : 유니티를 이용한 미니게임
+## 플러터웹을 이용한 웹 사이트 개발
 
+*(2022.2 - 2022.3)*
+
+즉석 복권 스피또 구매시 현재 어떤 즉석복권을 사아햐는지 알기 위해 개발
+
+- [https://eyedealists.net/](https://eyedealists.net/) 운영
+- [let's encrypt](https://letsencrypt.org/ko/)  을 이용한 ssl 대응
+- 호스팅업체 [가비아](https://www.gabia.com/) 에서 도메인 구입 후 dns 적용
+- gcp cloud function 을 이용한 crawling & api 구현
+- gcp cloud artifact registry & cloud run 을 이용한 배포시스템 구축
+- github action 을 이용해 push, pr 시 자동으로 test case 실행하도록 작업
+
+## 플러터와 다트를 이용한 모바일 앱 개발
+
+*(2019.7 - 2020.9)*
+
+모바일 어플리케이션 개발 역량 강화를 위해 개인적으로 진행했던 프로젝트
+
+개발 당시 구글에서 출시한지 얼마 안된 플러터를 사용함으로써 스택오버플로에서 많은 도움을 주고 받는 경험을 함
+
+- 클라이언트 flutter, 서버 dart 를 이용해 dart 언어의 이해도 증가
+- grpc를 사용하여 서버/클라간 통신
+- firebase 를 사용한 auth 구현
+- chips input field 위젯 구현 및 github gist 에 공개[https://gist.github.com/battlecook/2afbc23e17d4d77069681e21c862b692](https://gist.github.com/battlecook/2afbc23e17d4d77069681e21c862b692)
+- ui 와 business logic 을 분리하는 ReactiveX 패러다임 이해 ( rxdart 사용 )
+- adobe xd to flutter 를 활용
+- **google cloud platform**를 이용해 서버 운영 (현재 운영중)
+- 플러터2.0 null safety 마이그레이션
+
+플러터 관련 스택오버플로 활동
+
+- [https://stackoverflow.com/questions/65613148/flutter-unhandled-exception-filesystemexception-creation-failed-path-dire/65613322#65613322](https://stackoverflow.com/questions/65613148/flutter-unhandled-exception-filesystemexception-creation-failed-path-dire/65613322#65613322)
+- [https://stackoverflow.com/questions/64834702/why-build-function-gets-called-twice-when-hot-restarting](https://stackoverflow.com/questions/64834702/why-build-function-gets-called-twice-when-hot-restarting)
+- [https://stackoverflow.com/questions/61699351/flutter-the-index-value-i-asked-to-remove-is-different-from-the-index-value-tha](https://stackoverflow.com/questions/61699351/flutter-the-index-value-i-asked-to-remove-is-different-from-the-index-value-tha)
+
+그 외 다수
+
+## 모바일 게임 서버 개발
+
+*(2017.1 - 2019.2)*
+
+업무로 해보지 못했던 tcp 서버 개발과 클라우드 서버 환경을 개인적으로 경험 해보기 위해 진행 
+
+- 프로토콜버퍼, 플랫버퍼, json 등 의 성능 비교 테스트
+- **aws** 를 이용해 서버운영 (무료기간 만료로 현재 운영하지 않음)
+- 무료 https  ( [let's encrypt](https://letsencrypt.org/ko/) ) 적용
+- php 를 이용한 소켓서버 구현 [workerman](https://github.com/walkor/Workerman) 라이브러리 사용
+- 연결지향 프로토콜 tcp 에 대한 이해
+- bitbucket 이용
+- 서버에서 AStar 로직 구현 및 [오픈소스화 진행](https://github.com/battlecook/AStar)
+- 클라이언트 로직을 서버 구현을 위해 벡터 기능 구현 및 [선형대수 오픈소스](https://github.com/mcordingley/LinearAlgebra) 공헌
+
+
+## 유니티를 이용한 모바일 게임 개발
+
+*(2018.1 - 2018.6)*
+
+모바일 게임 클라이언트 역량 강화를 위해 개인적으로 진행했던 프로젝트
+
+- 유니티 코루틴 동작방식 이해
+- 간단한 게임 클라이언트 구현
 
 개발 블로그 
 --------------------
